@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.jpg" width="150" alt="Rongala Krishnam Raju Swamy" style="border-radius: 50%;" />
+  <img src=""K:\CERTIFICATES\imp\WhatsApp Image 2025-06-18 at 11.47.36_70faa20a.jpg"" width="150" alt="Rongala Krishnam Raju Swamy" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hey 👋 I'm Rongala Krishnam Raju Swamy</h1>
@@ -60,8 +60,8 @@
 
 - 📧 Email: [rongalakrishnamrajuswamy@gmail.com](mailto:rongalakrishnamrajuswamy@gmail.com)  
 - 📱 Phone: +91-9347591528  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 🖥️ [GitHub](https://github.com/your-github)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishnam-raju-swamy-rongala/)  
+- 🖥️ [GitHub](https://github.com/krishnarongala05)
 
 ---
 
