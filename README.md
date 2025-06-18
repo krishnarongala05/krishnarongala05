@@ -1,69 +1,71 @@
+<h1 align="left">Hey 👋 I'm Rongala Krishnam Raju Swamy</h1>
 
-
-<h1 align="center">Hey 👋 I'm Rongala Krishnam Raju Swamy</h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI)+@+Parul+University;Java+%7C+Web+Dev+Enthusiast;Problem+Solver+%7C+Tech+Explorer;Open+Source+%7C+Coding+Contests+Athlete" alt="Typing SVG" />
-  </a>
+<p align="left">
+🎓 B.Tech CSE (AI) student at Parul University (Graduating 2026) <br>
+💡 Passionate about solving complex problems using technology <br>
+💻 Specializing in Java development and full-stack web applications <br>
+🌐 Based in Visakhapatnam, Andhra Pradesh, India
 </p>
 
 ---
 
-## 🧠 About Me
+<h2 align="left">🧠 About Me</h2>
 
-- 🎓 CSE (AI) Student, Parul University (2026)
-- 💻 Love Java and full-stack web development
-- 🎯 Passionate about scalable systems and backend architecture
-- 🎲 Fun Fact: I'm an athlete & love coding competitions!
+<p align="left">
+✨ Creating bugs since 2022 <br>
+📚 Currently learning advanced backend development and system design <br>
+🎯 Goal: Build scalable software products and contribute to open-source <br>
+🎲 Fun fact: I'm an athlete and love competing in coding contests!
+</p>
 
 ---
 
-## 💻 Languages & Tools
+<h2 align="left">🛠️ Languages & Tools</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
 ---
 
-## 🔨 Projects
+<h2 align="left">🚀 Projects</h2>
 
-### ✅ TrustyUdder – Milk Sale Website
-- 🧪 **Stack**: React.js, HTML, CSS, JavaScript  
-- 💡 Built responsive UI, cart system & interactive features  
-- 📱 Optimized for mobile and browsers  
-- 🔗 [GitHub Project Link](#)
-
----
-
-## 📜 Certifications
-
-- Infosys – Web Development  
-- Infosys – Database & SQL  
-- Infosys – DSA with Java
+- **TrustyUdder – Milk Sale Website**  
+  🧪 Tech: React.js, HTML, CSS, JavaScript  
+  🔹 Built a responsive milk delivery web app with reusable components  
+  🔹 Implemented cart system and basic checkout functionality  
+  🔹 Ensured cross-browser compatibility and mobile responsiveness
 
 ---
 
-## 📫 Contact Me
+<h2 align="left">📜 Certifications</h2>
+
+- ✅ Infosys Web Development  
+- ✅ Infosys Database & SQL  
+- ✅ Infosys DSA with Java  
+
+---
+
+<h2 align="left">📫 Connect with Me</h2>
 
 - 📧 Email: [rongalakrishnamrajuswamy@gmail.com](mailto:rongalakrishnamrajuswamy@gmail.com)  
-- 📱 Phone: +91-9347591528  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/krishnam-raju-swamy-rongala/)  
-- 🖥️ [GitHub](https://github.com/krishnarongala05)
+- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/krishnam-raju-swamy-rongala)  
+- 🖥️ GitHub: [Your GitHub Profile](https://github.com/krishnarongala05)
 
 ---
 
-## 🌐 Languages I Speak
+<h2 align="left">🌍 Languages I Speak</h2>
 
 - 🗣️ English – Professional  
 - 🗣️ Telugu – Native  
@@ -71,9 +73,3 @@
 
 ---
 
-## ⚡ GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github&theme=radical" width="48%" />
-</p>
