@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""K:\CERTIFICATES\imp\WhatsApp Image 2025-06-18 at 11.47.36_70faa20a.jpg"" width="150" alt="Rongala Krishnam Raju Swamy" style="border-radius: 50%;" />
+  <img src="K:\CERTIFICATES\imp\WhatsApp Image 2025-06-18 at 11.47.36_70faa20a.jpg"width="150" alt="Rongala Krishnam Raju Swamy" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hey 👋 I'm Rongala Krishnam Raju Swamy</h1>
