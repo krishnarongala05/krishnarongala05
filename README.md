@@ -60,8 +60,8 @@
 <h2 align="left">📫 Connect with Me</h2>
 
 - 📧 Email: [rongalakrishnamrajuswamy@gmail.com](mailto:rongalakrishnamrajuswamy@gmail.com)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)  
-- 🖥️ GitHub: [Your GitHub Profile](https://github.com/your-username)
+- 🔗 LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/krishnam-raju-swamy-rongala]
+- 🖥️ GitHub: [Your GitHub Profile](https://github.com/krishnarongala05)
 
 ---
 
